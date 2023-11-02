@@ -1,0 +1,1037 @@
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\ZstdNet.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 12.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\ZstdNet.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.12.22 (1)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\ZstdNet.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\ZstdNet.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 14.12.22\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\ZstdNet.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 6.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 12.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 13.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 15.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe.config
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 16.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 20.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 23.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\RestSharp.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.SuggestedBindingRedirects.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 26.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 27.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 30.1.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 2.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 3.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 5.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 5.2 (1).23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 6.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 7.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+\\hgs-fs6\users$\Students\16\16affankhan\My Documents\Visual Studio 2019\Projects\CSNEA 8.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 10.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 24.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\K4os.Hash.xxHash.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csprojAssemblyReference.cache
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+U:\My Documents\Visual Studio 2019\Projects\CSNEA 26.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.LoadingWithStopwatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.LoadingWithStopwatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.LoadingWithStopwatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.2.23 (2)\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe.config
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\CSNEA-CSharp-TRY2.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Buffers.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Memory.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.dll
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\HtmlAgilityPack.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\MySql.Data.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Text.Json.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\bin\Debug\System.ValueTuple.xml
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.AssemblyReference.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.DisplayPlayerStats.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.LoadingWithStopwatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.PreMatch.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Properties.Resources.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.Results.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.SelectTeams.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA_CSharp_TRY2.UpdateDB.resources
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.GenerateResource.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CoreCompileInputs.cache
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.csproj.CopyComplete
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.exe
+C:\Users\affan\OneDrive\Documents\Visual Studio 2019\Projects\CSNEA 28.3.23\CSNEA-CSharp-TRY2\obj\Debug\CSNEA-CSharp-TRY2.pdb
