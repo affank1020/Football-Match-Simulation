@@ -11,3 +11,9 @@ The program requires an SQL database to store information on players, teams and 
 
 The YouTube video below showcases the program running.
 https://youtu.be/5OgF10Dz2GI
+
+![image](https://github.com/affank1020/Football-Match-Simulation/assets/58519561/496c88b4-46a4-49b0-aa65-bd18ed7a805c)
+![image](https://github.com/affank1020/Football-Match-Simulation/assets/58519561/cdd07346-c669-4ac2-89b3-d204ddd74480)
+![image](https://github.com/affank1020/Football-Match-Simulation/assets/58519561/8f1d8ef7-f8b6-420a-9fba-c630fce657d7)
+![image](https://github.com/affank1020/Football-Match-Simulation/assets/58519561/2446c29b-b72b-4b5b-94ae-33e88708f36e)
+
